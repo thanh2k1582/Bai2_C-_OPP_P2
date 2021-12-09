@@ -1,0 +1,13 @@
+F:\C#\BaiTapQLSV\Bai2_OOP\Bai2_OOP\Bai2_OOP\bin\Debug\netcoreapp3.1\Bai2_OOP.exe
+F:\C#\BaiTapQLSV\Bai2_OOP\Bai2_OOP\Bai2_OOP\bin\Debug\netcoreapp3.1\Bai2_OOP.deps.json
+F:\C#\BaiTapQLSV\Bai2_OOP\Bai2_OOP\Bai2_OOP\bin\Debug\netcoreapp3.1\Bai2_OOP.runtimeconfig.json
+F:\C#\BaiTapQLSV\Bai2_OOP\Bai2_OOP\Bai2_OOP\bin\Debug\netcoreapp3.1\Bai2_OOP.runtimeconfig.dev.json
+F:\C#\BaiTapQLSV\Bai2_OOP\Bai2_OOP\Bai2_OOP\bin\Debug\netcoreapp3.1\Bai2_OOP.dll
+F:\C#\BaiTapQLSV\Bai2_OOP\Bai2_OOP\Bai2_OOP\bin\Debug\netcoreapp3.1\Bai2_OOP.pdb
+F:\C#\BaiTapQLSV\Bai2_OOP\Bai2_OOP\Bai2_OOP\obj\Debug\netcoreapp3.1\Bai2_OOP.csproj.AssemblyReference.cache
+F:\C#\BaiTapQLSV\Bai2_OOP\Bai2_OOP\Bai2_OOP\obj\Debug\netcoreapp3.1\Bai2_OOP.AssemblyInfoInputs.cache
+F:\C#\BaiTapQLSV\Bai2_OOP\Bai2_OOP\Bai2_OOP\obj\Debug\netcoreapp3.1\Bai2_OOP.AssemblyInfo.cs
+F:\C#\BaiTapQLSV\Bai2_OOP\Bai2_OOP\Bai2_OOP\obj\Debug\netcoreapp3.1\Bai2_OOP.csproj.CoreCompileInputs.cache
+F:\C#\BaiTapQLSV\Bai2_OOP\Bai2_OOP\Bai2_OOP\obj\Debug\netcoreapp3.1\Bai2_OOP.dll
+F:\C#\BaiTapQLSV\Bai2_OOP\Bai2_OOP\Bai2_OOP\obj\Debug\netcoreapp3.1\Bai2_OOP.pdb
+F:\C#\BaiTapQLSV\Bai2_OOP\Bai2_OOP\Bai2_OOP\obj\Debug\netcoreapp3.1\Bai2_OOP.genruntimeconfig.cache
